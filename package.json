@@ -5,7 +5,8 @@
   "scripts": {
     "install-deps": "playwright install --with-deps",
     "test": "playwright test",
-    "ui": "playwright test --ui"
+    "ui": "playwright test --ui",
+    "show-report": "playwright show-report"
   },
   "author": "Sagarika Sahoo <sagarika-sahoo@users.noreply.github.com>",
   "license": "ISC",
