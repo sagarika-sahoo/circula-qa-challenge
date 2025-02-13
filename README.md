@@ -4,6 +4,10 @@
 
 There are [helpers](tests/helpers/sign-up.js) for signup page form elements to allow reusability of functions in different tests.
 
+## Prerequisite
+
+- node v22 
+
 ## Install dependencies
 
 - `npm i`
