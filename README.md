@@ -16,3 +16,4 @@ There are [helpers](tests/helpers/sign-up.js) for signup page form elements to a
 ## Running the tests
 
 - `npm test` - runs playwright test for (chromium, firefox and webkit browsers)
+- `npm run show-report` - show the tests report after successful run
